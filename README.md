@@ -11,7 +11,7 @@ Este script en Python utiliza Selenium para llenar automáticamente un formulari
 ## Instalación
 
 1. Clona este repositorio en tu máquina local:
-  git clone https://github.com/tu_usuario/tu_repositorio.git
+  git clone https://github.com/DavidRedz10/ReplyAutomation.git
 2. Navega hasta el directorio del proyecto:
   cd tu_repositorio
   
